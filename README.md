@@ -12,11 +12,11 @@
 
 | 屏控图 | 手机 App 看板 |
 |:---:|:---:|
-| <img src="/img/屏控.png" width="350" height="120"> | <img src="/img/手机app.jpg" width="350" height="120"> |
+| <img src="/img/屏控.png" width="350" height="467"> | <img src="/img/手机app.jpg" width="350" height="467"> |
 
 | 小程序 | 手表 App 看板 |
 |:---:|:---:|
-| <img src="/img/侦测1.jpg" width="350" height="120"> | <img src="/img/手表.png" width="350" height="120"> |
+| <img src="/img/小程序.jpg" width="350" height="467"> | <img src="/img/手表.png" width="350" height="467"> |
 
 
 ---
